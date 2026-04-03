@@ -1,5 +1,7 @@
 # KU Algorithm Study Repository
 
+[백준 그룹](https://www.acmicpc.net/group/25035)
+
 ## 스터디 목표
 - 기업 코딩 테스트 및 PCCP 자격증 취득을 위한 문제 해결 능력 향상
 - C++ STL의 적극적인 활용과 알고리즘 문제의 패턴화(유형화)
