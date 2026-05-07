@@ -65,5 +65,6 @@
 | **1주차** | `26.04.03 ~ 26.04.09` | **선형 자료구조**<br>(Vector, List, Stack, Queue, Deque) | 괄호 쌍 체크, 에디터(커서 이동) |
 | **2주차** | `26.04.10 ~ 26.04.16` | **BFS**<br>(Queue, Pair) | Flood Fill, 격자 내 최단 거리 |
 | 중간고사 |  |  |  |
-| **3주차** | `26.04.17 ~ 26.04.30` | **DFS 및 재귀**<br>(Stack, base case) | D&C, 트리순회, 가지치기, 프랙탈 |
-| **4주차** | `26.05.01 ~ 26.05.07` | **백트래킹**<br>(Vector, call stack) | [순열/조합](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp), [2차원 가지치기](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=cpp), [상태분기](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=cpp) |
+| **3주차** | `26.04.17 ~ 26.04.30` | **DFS 및 재귀**<br>(Stack, base case) | D&C, 트리순회, 프랙탈 |
+| **4주차** | `26.05.01 ~ 26.05.07` | **백트래킹**<br>(State Array, call stack) | [순열/조합](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp), [2차원 가지치기](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=cpp), [상태분기](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=cpp) |
+| **5주차** | `26.05.08 ~ 26.05.14` | - | - |
