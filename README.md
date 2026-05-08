@@ -67,4 +67,4 @@
 | 중간고사 |  |  |  |
 | **3주차** | `26.04.17 ~ 26.04.30` | **DFS 및 재귀**<br>(Stack, base case) | D&C, 트리순회, 프랙탈 |
 | **4주차** | `26.05.01 ~ 26.05.07` | **백트래킹**<br>(State Array, call stack) | [순열/조합](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp), [2차원 가지치기](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=cpp), [상태분기](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=cpp) |
-| **5주차** | `26.05.08 ~ 26.05.14` | - | - |
+| **5주차** | `26.05.08 ~ 26.05.14` | **DP (동적 계획법)**<br>(Memoization, 점화식) | [1차원](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=cpp), [2차원](https://school.programmers.co.kr/learn/courses/30/lessons/12913?language=cpp), [경로 누적 최적화](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=cpp) |
