@@ -1,6 +1,8 @@
 # KU Algorithm Study Repository
 
-[백준 그룹](https://www.acmicpc.net/group/25035)
+~~[백준 그룹](https://www.acmicpc.net/group/25035)~~ *백준 섭종에 따라 2026.05.01부터 프로그래머스 문제로 대체합니다*
+
+****
 
 ## 스터디 목표
 - 기업 코딩 테스트 및 PCCP 자격증 취득을 위한 문제 해결 능력 향상
