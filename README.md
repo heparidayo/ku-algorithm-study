@@ -1,20 +1,20 @@
-# KU Algorithm Study Repository
+# 2026 KU Algorithm & Computer Science Study
 
 ~~[백준 그룹](https://www.acmicpc.net/group/25035)~~ *백준 섭종에 따라 2026.05.01부터 프로그래머스 문제로 대체합니다*
 
 ****
 
 ## 스터디 목표
-- 기업 코딩 테스트 및 PCCP 자격증 취득을 위한 문제 해결 능력 향상
-- C++ STL의 적극적인 활용과 알고리즘 문제의 패턴화(유형화)
-- 서로간의 학습 진도를 공유, 동기부여
+- 기업 코딩 테스트 및 PCCP 자격증 취득을 위한 문제 해결 능력과 C++ 활용능력 향상 및 알고리즘 문제 유형화
+- OOP, 디자인 패턴, 엔진 아키텍처 등 각자가 학습 중인 넓은 범위의 CS 지식을 자유롭게 공유
+- 서로의 학습 진도와 개인 프로젝트 진행 상황을 나누며 긍정적인 자극과 동기부여
 
 ## 진행 방식
 - **시간**: 매주 목요일 저녁 8시
 - **장소**: 온라인 (Discord)
 - **내용**: 
-  - 주차별 지정된 유형의 문제를 해결하고 코드를 업로드합니다.
-  - 스터디 시간에는 각자의 문제 접근 방식(알고리즘 선택 근거), 막혔던 부분, 시간/공간 복잡도를 간략히 설명합니다.
+  - 알고리즘 리뷰: 주차별로 지정된 알고리즘 문제에 대해 각자의 접근 방식, 막혔던 부분, 시공간 복잡도 등을 자유롭게 리뷰합니다.
+  - 자유 기술 토크: 알고리즘 리뷰 후, 이번 주에 각자 공부했던 CS 개념, 개발 관련 지식, 혹은 흥미로운 기술 아티클 등을 가볍게 공유합니다.
 
 ## 디렉토리 구조 및 네이밍 컨벤션
 
@@ -67,8 +67,8 @@
 | **1주차** | `26.04.03 ~ 26.04.09` | **선형 자료구조**<br>(Vector, List, Stack, Queue, Deque) | 괄호 쌍 체크, 에디터(커서 이동) |
 | **2주차** | `26.04.10 ~ 26.04.16` | **BFS**<br>(Queue, Pair) | Flood Fill, 격자 내 최단 거리 |
 | 중간고사 |  |  |  |
-| **3주차** | `26.04.17 ~ 26.04.30` | **DFS 및 재귀**<br>(Stack, base case) | D&C, 트리순회, 프랙탈 |
-| **4주차** | `26.05.01 ~ 26.05.07` | **백트래킹**<br>(State Array, call stack) | [순열/조합](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp), [2차원 가지치기](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=cpp), [상태분기](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=cpp) |
+| **3주차** | `26.04.17 ~ 26.04.30` | **DFS 및 재귀** (Stack, base case)<br>**OOP 기초 및 게임 디자인 패턴**<br>(객체지향 발전 과정, Observer, Command, Singleton 패턴) | D&C, 트리순회, 프랙탈 |
+| **4주차** | `26.05.01 ~ 26.05.07` | **백트래킹**<br>(state array, call stack) | [순열/조합](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp), [2차원 가지치기](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=cpp), [상태분기](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=cpp) |
 | **5주차** | `26.05.08 ~ 26.05.14` | **DP (동적 계획법)**<br>(Memoization, 점화식) | [1차원](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=cpp), [2차원](https://school.programmers.co.kr/learn/courses/30/lessons/12913?language=cpp), [경로 누적 최적화](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=cpp) |
 | 외부행사 |  |  |  |
-| **6주차** | `26.05.15 ~ 26.05.28` | **Dijkstra (다익스트라)**<br>(Priority Queue, relaxation) | [기본](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=cpp), [최적화](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=cpp), [변형](https://school.programmers.co.kr/learn/courses/30/lessons/118669), |
+| **6주차** | `26.05.15 ~ 26.05.28` | **Dijkstra (다익스트라)**<br>(priority queue, edge relaxation) | [기본](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=cpp), [최적화](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=cpp), [변형](https://school.programmers.co.kr/learn/courses/30/lessons/118669), |
