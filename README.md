@@ -72,4 +72,4 @@
 | **5주차** | `26.05.08 ~ 26.05.14` | **DP (동적 계획법)**<br>(Memoization, 점화식) | [1차원](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=cpp), [2차원](https://school.programmers.co.kr/learn/courses/30/lessons/12913?language=cpp), [경로 누적 최적화](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=cpp) |
 | 외부행사 |  |  |  |
 | **6주차** | `26.05.15 ~ 26.05.28` | **Dijkstra (다익스트라)**<br>(priority queue, edge relaxation) | [기본](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=cpp), [최적화](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=cpp), [변형](https://school.programmers.co.kr/learn/courses/30/lessons/118669), |
-| **7주차** | `26.05.28 ~ 26.06.04` |  |  |
+| **7주차** | `26.05.28 ~ 26.06.04` | **Dijkstra 심화** | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259), [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266), [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304) |
