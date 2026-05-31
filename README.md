@@ -73,3 +73,4 @@
 | 외부행사 |  |  |  |
 | **6주차** | `26.05.15 ~ 26.05.28` | **Dijkstra (다익스트라)**<br>(priority queue, edge relaxation) | [기본](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=cpp), [최적화](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=cpp), [변형](https://school.programmers.co.kr/learn/courses/30/lessons/118669), |
 | **7주차** | `26.05.28 ~ 26.06.04` | **Dijkstra 심화** | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259), [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266), [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/81304) |
+| **8주차** | `26.06.04 ~ 26.06.11` | |  | 
