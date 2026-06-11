@@ -74,3 +74,5 @@
 | **6주차** | `26.05.22 ~ 26.05.28` | **Dijkstra (다익스트라)**<br>(priority queue, edge relaxation) | [기본](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=cpp), [경유지](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=cpp), [Multi-Source](https://school.programmers.co.kr/learn/courses/30/lessons/118669), |
 | **7주차** | `26.05.29 ~ 26.06.11` | **Dijkstra 심화** | [3차원](https://school.programmers.co.kr/learn/courses/30/lessons/67259), [역방향](https://school.programmers.co.kr/learn/courses/30/lessons/132266), [추상화](https://school.programmers.co.kr/learn/courses/30/lessons/118668), [동적/비트마스킹](https://school.programmers.co.kr/learn/courses/30/lessons/81304)|
 | - |  | *기말고사* | |
+| **8주차** | `26.06.19 ~ 26.06.25` | **MST (최소 신장 트리)**<br>(Kruskal/Prim, DSU) | [MST](https://school.programmers.co.kr/learn/courses/30/lessons/42861), [분리집합](https://school.programmers.co.kr/learn/courses/30/lessons/150366), [심화](https://school.programmers.co.kr/learn/courses/30/lessons/62050) |
+
