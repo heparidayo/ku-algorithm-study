@@ -75,5 +75,5 @@
 | **7주차** | `26.05.29 ~ 26.06.11` | **다익스트라 심화** | [3차원](https://school.programmers.co.kr/learn/courses/30/lessons/67259), [역방향](https://school.programmers.co.kr/learn/courses/30/lessons/132266), [추상화](https://school.programmers.co.kr/learn/courses/30/lessons/118668), [동적/비트마스킹](https://school.programmers.co.kr/learn/courses/30/lessons/81304)|
 | - |  | *기말고사* | |
 | **8주차** | `26.06.19 ~ 26.06.25` | **최소 신장 트리 (MST)**<br>(Kruskal/Prim, DSU) | [MST](https://school.programmers.co.kr/learn/courses/30/lessons/42861), [분리집합](https://school.programmers.co.kr/learn/courses/30/lessons/150366), [심화](https://school.programmers.co.kr/learn/courses/30/lessons/62050) |
-| **9주차** | `26.06.26 ~ 26.07.02` | **위상 정렬 (Topological Sort)** | |
+| **9주차** | `26.06.26 ~ 26.07.02` | **위상 정렬 (Topological Sort)** | [동굴탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260) |
 
