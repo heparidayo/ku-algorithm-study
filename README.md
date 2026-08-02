@@ -1,6 +1,6 @@
 # 2026 KU Algorithm & Computer Science Study
 
-~~[백준 그룹](https://www.acmicpc.net/group/25035)~~ *백준 섭종에 따라 2026.05.01부터 프로그래머스 문제로 대체합니다*
+~~[백준 그룹](https://www.acmicpc.net/group/25035)~~ *백준 섭종에 따라 2026.05.01부터 프로그래머스 문제로 대체합니다*   
 
 ---
 
@@ -65,15 +65,16 @@
 | 주차 | 진행 기간 | 학습 주제 | 대표 유형 |
 | :--: | :-- | :--: | :--: |
 | **1주차** | `26.04.03 ~ 26.04.09` | **선형 자료구조**<br>(Vector, List, Stack, Queue, Deque) | 괄호 쌍 체크, 에디터(커서 이동) |
-| **2주차** | `26.04.10 ~ 26.04.16` | **BFS**<br>(Queue, Pair) | Flood Fill, 격자 내 최단 거리 |
+| **2주차** | `26.04.10 ~ 26.04.16` | **BFS** | Flood Fill, 격자 내 최단 거리 |
 | - |  | *중간고사* |  |
-| **3주차** | `26.04.24 ~ 26.04.30` | **DFS와 재귀 & OOP기초와 디자인패턴**<br>(Stack, base case, Observer/Command/Singleton) | D&C, 트리순회, 프랙탈 |
-| **4주차** | `26.05.01 ~ 26.05.07` | **백트래킹**<br>(state array, call stack) | [순열/조합](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp), [2차원 가지치기](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=cpp), [상태분기](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=cpp) |
-| **5주차** | `26.05.08 ~ 26.05.14` | **DP (동적 계획법)**<br>(Memoization, 점화식) | [1차원](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=cpp), [2차원](https://school.programmers.co.kr/learn/courses/30/lessons/12913?language=cpp), [경로 누적 최적화](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=cpp) |
+| **3주차** | `26.04.24 ~ 26.04.30` | **DFS/재귀 & OOP/디자인패턴**<br>(Observer/Command/Singleton) | D&C, 트리순회, 프랙탈 |
+| **4주차** | `26.05.01 ~ 26.05.07` | **백트래킹** (Backtracking) | [순열/조합](https://school.programmers.co.kr/learn/courses/30/lessons/87946?language=cpp), [2차원 가지치기](https://school.programmers.co.kr/learn/courses/30/lessons/12952?language=cpp), [상태분기](https://school.programmers.co.kr/learn/courses/30/lessons/92342?language=cpp) |
+| **5주차** | `26.05.08 ~ 26.05.14` | **DP** | [1차원](https://school.programmers.co.kr/learn/courses/30/lessons/12914?language=cpp), [2차원](https://school.programmers.co.kr/learn/courses/30/lessons/12913?language=cpp), [경로 누적 최적화](https://school.programmers.co.kr/learn/courses/30/lessons/43105?language=cpp) |
 | - |  | *외부행사* |  |
-| **6주차** | `26.05.22 ~ 26.05.28` | **다익스트라 (Dijkstra)**<br>(priority queue, edge relaxation) | [기본](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=cpp), [경유지](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=cpp), [Multi-Source](https://school.programmers.co.kr/learn/courses/30/lessons/118669), |
-| **7주차** | `26.05.29 ~ 26.06.11` | **다익스트라 심화** | [3차원](https://school.programmers.co.kr/learn/courses/30/lessons/67259), [역방향](https://school.programmers.co.kr/learn/courses/30/lessons/132266), [추상화](https://school.programmers.co.kr/learn/courses/30/lessons/118668), [동적/비트마스킹](https://school.programmers.co.kr/learn/courses/30/lessons/81304)|
+| **6주차** | `26.05.22 ~ 26.05.28` | **다익스트라** (Dijkstra) | [기본](https://school.programmers.co.kr/learn/courses/30/lessons/12978?language=cpp), [경유지](https://school.programmers.co.kr/learn/courses/30/lessons/72413?language=cpp), [Multi-Source](https://school.programmers.co.kr/learn/courses/30/lessons/118669), |
+| **7주차** | `26.05.29 ~ 26.06.11` | **다익스트라 심화**<br> (priority queue, edge relaxation) | [3차원](https://school.programmers.co.kr/learn/courses/30/lessons/67259), [역방향](https://school.programmers.co.kr/learn/courses/30/lessons/132266), [추상화](https://school.programmers.co.kr/learn/courses/30/lessons/118668), [동적/비트마스킹](https://school.programmers.co.kr/learn/courses/30/lessons/81304)|
 | - |  | *기말고사* | |
-| **8주차** | `26.06.19 ~ 26.06.25` | **최소 신장 트리 (MST)**<br>(Kruskal/Prim, DSU) | [MST](https://school.programmers.co.kr/learn/courses/30/lessons/42861), [분리집합](https://school.programmers.co.kr/learn/courses/30/lessons/150366), [심화](https://school.programmers.co.kr/learn/courses/30/lessons/62050) |
-| **9주차** | `26.06.26 ~ 26.07.02` | **위상 정렬 (Topological Sort)** | [동굴탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260) |
+| **8주차** | `26.06.19 ~ 26.06.25` | **최소 신장 트리** (MST, DSU) | [MST](https://school.programmers.co.kr/learn/courses/30/lessons/42861), [분리집합](https://school.programmers.co.kr/learn/courses/30/lessons/150366), [심화](https://school.programmers.co.kr/learn/courses/30/lessons/62050) |
+| **9주차** | `26.06.26 ~ 26.07.02` | **위상 정렬** (Topological Sort) | [동굴탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260) |
+| **10주차** | `26.07.02 ~ 26.07.09` | **이분 탐색** (Binary Search) | [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238), [징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)|
 
